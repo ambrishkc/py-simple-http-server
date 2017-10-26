@@ -1,4 +1,4 @@
-Py Simple HTTP Server
+SHAZAM ⚡ - Simple HTTP Server in Python 3
 =====================
 
 Simple HTTP Server with socket programming with Python 3.
